@@ -1,0 +1,9 @@
+{
+  "database": {
+    "host": "your-rds-endpoint",
+    "port": 3306,
+    "user": "db-username",
+    "password": "db-password",
+    "name": "your-db-name"
+  }
+}
